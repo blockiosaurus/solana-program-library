@@ -8,6 +8,7 @@ members = [
   "stake-pool/program",
   "token/program",
   "token/program-2022",
+  "token-set/program",
 ]
 
 [provider]

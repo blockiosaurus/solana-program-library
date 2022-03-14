@@ -33,6 +33,7 @@ members = [
   "token/program-2022",
   "token/program-2022-test",
   "token/client",
+  "token-set/program",
   "utils/cgen",
   "utils/test-client",
   "token-lending/flash_loan_receiver",
